@@ -20,8 +20,8 @@ p{color: white;
 }
 
 img{border-style: dotted;
-	border-width: 10px;
-	border-color: white;
+	border-width: 5px;
+	border-color: green;
 	display: block;
 	margin: auto;
 }
