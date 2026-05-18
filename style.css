@@ -57,4 +57,11 @@ ul li a:hover {
 	font-size: 20px;
 }
 
+.images-container {
+	display: flex;
+	justify-content: center;
+	aligh-items: center; 
+	gap: 20px;
+	flew-wrap: wrap;
+}
 
